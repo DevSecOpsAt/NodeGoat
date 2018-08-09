@@ -1,5 +1,5 @@
 "use strict";
-
+var screen = require('sqreen');
 var express = require("express");
 var favicon = require("serve-favicon");
 var bodyParser = require("body-parser");
